@@ -55,9 +55,8 @@ The training metrics show:
 - PyTorch: Deep learning framework
 - torchvision: For dataset handling and transformations
 - matplotlib: For visualization
-- CUDA: For GPU acceleration (when available)
 
-## Skills Demonstrated
+## Skills 
 - Deep learning architecture design
 - Implementation of variational autoencoders
 - Working with convolutional and transposed convolutional layers
