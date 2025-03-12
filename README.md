@@ -66,4 +66,21 @@ The training metrics show:
 - Loss function design and optimization
 - Training process monitoring and visualization
 - Working with image datasets
+  
+## Reconstruction of existing images examples
+original images:
+![Alt text](images/original2.png)
+
+reconstruction:
+![Alt text](images/reconstruction2.png)
+
+
+
+original images:
+![Alt text](images/original3.png)
+
+reconstruction:
+![Alt text](images/reconstruction3.png)
+
+
 
