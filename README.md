@@ -72,7 +72,7 @@ original images:
 ![Alt text](Images/original2.png)
 
 reconstruction:
-![Alt text](Images/reconstruction2.png)
+![Alt text](Images/reconstructed2.png)
 
 
 
@@ -80,7 +80,7 @@ original images:
 ![Alt text](Images/original3.png)
 
 reconstruction:
-![Alt text](Images/reconstruction3.png)
+![Alt text](Images/reconstructed3.png)
 
 
 
