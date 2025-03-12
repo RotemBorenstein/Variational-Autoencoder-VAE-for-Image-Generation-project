@@ -67,7 +67,7 @@ The training metrics show:
 - Training process monitoring and visualization
 - Working with image datasets
   
-## Reconstruction of existing images examples
+## Reconstruction of existing image examples
 original images:
 ![Alt text](Images/original2.png)
 
@@ -77,10 +77,10 @@ reconstruction:
 
 
 original images:
-![Alt text](Images/original3.png)
+![Alt text](Images/original4.png)
 
 reconstruction:
-![Alt text](Images/reconstructed3.png)
+![Alt text](Images/reconstructed4.png)
 
 
 
